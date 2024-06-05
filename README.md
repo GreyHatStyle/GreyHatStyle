@@ -10,4 +10,4 @@ I am Manas Bisht,
 
 - I always welcome feedback and suggestions without hesitation.
   
-![](https://leetcard.jacoblin.cool/Manas_bisht_11?ext=contest)
+ <!---![](https://leetcard.jacoblin.cool/Manas_bisht_11?ext=contest)
