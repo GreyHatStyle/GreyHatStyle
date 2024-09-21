@@ -2,7 +2,7 @@
 # Hi There ! 👋
 
 I am Manas Bisht,
-- A normal 2nd year student of **Graphic Era Hill University, Dehradun**.
+- A normal 3rd year student of **Graphic Era Hill University, Dehradun**.
 
 - I like to develope in [Python]("https://www.python.org/doc/essays/blurb/") Language.
 
