@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi There! 👋, I'm Manas Bisht</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GreyHatStyle&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav89908" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GreyHatStyle&label=Profile%20views&color=0e75b6&style=flat" alt="manas220" /> </p>
 
 
 ## Who Am I?
@@ -56,5 +56,5 @@
  
  
  ## My Github Stats
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=GreyHatStyle&theme=dark&show_icons=true" alt="abhinav89908" /></p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GreyHatStyle&show_icons=true&locale=en&layout=compact" alt="orunnnegi" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=GreyHatStyle&theme=dark&show_icons=true" alt="manas220" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GreyHatStyle&show_icons=true&locale=en&layout=compact" alt="manas220" /></p>
